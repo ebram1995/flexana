@@ -1,0 +1,22 @@
+fixtures = [
+    "Custom Field",
+    "Property Setter",
+    "Custom Script",
+    "Client Script",
+    "Server Script",
+    "Workflow",
+    "Workflow State",
+    "Workflow Action Master",
+    "Print Format",
+    "Report",
+    "Role",
+    "Module Def",
+    "Notification",
+    "Email Template",
+    "Translation",
+    "Web Page",
+    "Page",
+    "Web Form",
+    "Letter Head",
+    "Dashboard Chart"
+]
